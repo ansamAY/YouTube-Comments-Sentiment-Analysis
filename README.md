@@ -9,7 +9,7 @@ This project demonstrates how to perform **sentiment analysis** and **key phrase
 -  Extract key phrases from each comment
 -  Export the results to Excel or Google Sheets
 -  Python script included for automation
-- ☁ Uses Azure AI (Text Analytics v3.1)
+-  Uses Azure AI (Text Analytics v3.1)
 
 ##  Tech Stack
 - **Azure Cognitive Services – Text Analytics**
