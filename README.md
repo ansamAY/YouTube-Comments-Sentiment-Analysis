@@ -20,7 +20,7 @@ This project demonstrates how to perform **sentiment analysis** and **key phrase
 - `script.py`: Main Python script for analysis  
 
 
-## 💡 Use Cases
+##  Use Cases
 - Content performance analysis  
 - Viewer sentiment tracking  
 - Academic / graduation projects  
@@ -40,4 +40,4 @@ This project demonstrates how to perform **sentiment analysis** and **key phrase
    ```
 
 ##  License
-MIT License. Use freely, just give credit. 🙌
+MIT License. Use freely, just give credit. 
