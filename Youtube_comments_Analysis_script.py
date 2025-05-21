@@ -6,9 +6,9 @@ df = pd.read_excel("youtube-comments682d077ab7f43-BkryqKjptb0.xlsx")
 
 comments_column = "Comment"
 
-
-api_key ="53NfbTcJBnTWyI02oxG9OQIThYIRFlBHZo4a8eDxsVthcviFuS9hJQQJ99BEAC5RqLJXJ3w3AAAaACOGoV0x"
-endpoint = "https://youtubeanalysis12.cognitiveservices.azure.com/"
+#add your key and endpoint values
+api_key =""
+endpoint = ""
 
 sentiment_url = endpoint + "text/analytics/v3.1/sentiment"
 keyphrase_url = endpoint + "text/analytics/v3.1/keyPhrases"
